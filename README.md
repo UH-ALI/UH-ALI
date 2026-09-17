@@ -1,68 +1,136 @@
-# Hi, I'm Umair 👋
+# Hi, I'm Hafiz Muhammad Umair Ali 👋
 
-### Junior AI/ML Engineer · LLM Applications · RAG · MLOps
+### Junior AI/ML Engineer · Agentic AI · RAG Systems
 
-BS Computer Science graduate focused on building practical AI/ML systems — from classical ML pipelines and MLOps to RAG, parameter-efficient fine-tuning, computer vision, and agentic applications.
+I'm a **Computer Science graduate from DHA Suffa University (CGPA 3.89/4.00)** focused on building practical AI systems, particularly **RAG pipelines, LLM-powered applications, computer vision, and ML automation**.
 
-* 🎓 BS Computer Science — DHA Suffa University
-* 🏆 1st Place — AI Seekho Google Antigravity Hackathon
-* 💼 Data Science Intern — 10Pearls
-* 🔭 Building **SLM Studio**, a no-code fine-tuning and RAG platform for private business data
-* 📫 [LinkedIn](https://linkedin.com/in/hafiz-umair-ali) · [Email](mailto:umairalih6@gmail.com)
+I enjoy taking AI ideas from **prototype → working system**, with attention to retrieval quality, model integration, validation, and deployment.
 
 ---
 
-## Featured Projects
+## 🚀 What I'm Working On
 
-### 01 · STRUGGLER — The Architect's Trial
-
-**1st-place AI hackathon project.** An adaptive Flutter/Flame platformer where a Gemini 2.5 Flash Architect Agent uses gameplay telemetry to generate and adjust levels. AI requests are served through Google Cloud Vertex AI and a Cloud Functions relay.
-
-→ [Project overview](https://github.com/UH-ALI/Struggler-overview)
-
-### 02 · SLM Studio
-
-**No-code small-language-model platform.** 4-bit QLoRA fine-tuning on 8GB-class GPU hardware, RAG over ChromaDB, async FastAPI/Celery jobs, and LoRA adapter hot-swapping with LRU-based model caching.
-
-→ [Project overview](https://github.com/UH-ALI/SLM-Studio-overview)
-
-### 03 · AQI Forecasting
-
-**Production-style ML pipeline.** Historical weather/pollution data → feature engineering → Hopsworks feature store → model comparison → model registry → 72-hour forecasting, with scheduled GitHub Actions workflows and local fallbacks.
-
-→ [Repository](https://github.com/UH-ALI/air-quality-aqi-forecast)
-
-### 04 · RepRush
-
-**On-device computer vision.** Flutter app using Google ML Kit Pose Detection and joint-angle logic for squat, push-up, and pull-up tracking, with temporal smoothing and rest-state calibration for more stable rep detection.
-
-→ [Repository](https://github.com/UH-ALI/RepRush)
-
-### 05 · Sabaq
-
-**Syllabus-grounded RAG.** Generates Class 9 Biology practice from Sindh Textbook Board content using semantic chunking, multilingual embeddings, FAISS retrieval, Gemini generation, and an independent verification pass.
-
-→ [Repository](https://github.com/UH-ALI/Sabaq)
+* Building **Agentic AI and RAG-based applications**
+* Working with **LLM tool calling, structured outputs, and retrieval pipelines**
+* Exploring **LoRA/QLoRA fine-tuning and small language models**
+* Building automated **ML/MLOps workflows**
+* Developing practical **computer-vision applications**
 
 ---
 
-## Technical Focus
+## 🧠 Featured Projects
 
-**Languages:** Python · SQL · C++ · Dart
-**ML / Data:** PyTorch · Scikit-learn · Pandas · OpenCV · SHAP · YOLOv11
-**LLM / GenAI:** RAG · FAISS · ChromaDB · LoRA / QLoRA · Transformers · PEFT · Tool Calling · Structured Outputs
-**MLOps / Backend:** FastAPI · Hopsworks · GitHub Actions · Celery · Redis · PostgreSQL · Docker
-**Applications:** Flutter · Streamlit · Supabase
+### 🥇 STRUGGLER — The Architect's Trial
 
----
+**1st Place — AI Seekho Google Antigravity Hackathon**
 
-## Currently Learning
+A 2D action platformer where an AI system uses **Gemini 2.5 Flash** and player telemetry to generate and adapt gameplay content.
 
-* ML fundamentals and model evaluation
-* DSA with Python
-* Production AI/ML system design
-* RAG reliability and LLM evaluation
+**My work:** AI systems, telemetry design, generation pipeline, backend integration, validation, and adaptive gameplay.
+
+🔗 [Project Overview](https://github.com/UH-ALI/Struggler-overview)
 
 ---
 
-<sub>STRUGGLER and SLM Studio are documentation-only overview repositories because their full team implementations are private. The individual READMEs explain the source-availability constraint.</sub>
+### 🧩 No-Code SLM Studio — Final Year Project
+
+A no-code platform for **fine-tuning and deploying Small Language Models** on private business data.
+
+The system combines **QLoRA/LoRA fine-tuning with RAG**, allowing domain-specific models to work with private knowledge without relying solely on model weights.
+
+**My work:** Team Lead · model fine-tuning · RAG pipeline · deployment architecture
+
+🔗 [Project Overview](https://github.com/UH-ALI/SLM-Studio-overview)
+
+---
+
+### 🌍 AQI Forecasting Pipeline
+
+An automated machine-learning pipeline for **air-quality forecasting**, covering data ingestion, feature engineering, model training, model versioning, and recursive forecasting.
+
+**Stack:** Python · Scikit-learn · Hopsworks · GitHub Actions
+
+🔗 [Repository](https://github.com/UH-ALI/air-quality-aqi-forecast)
+
+---
+
+### 🏃 RepRush
+
+A camera-based fitness and territory game using **Flutter + Google ML Kit Pose Detection**.
+
+Implemented on-device pose processing, exercise rep counting, and form grading without uploading workout video.
+
+🔗 [Repository](https://github.com/UH-ALI/RepRush)
+
+---
+
+### 📚 Sabaq
+
+A syllabus-grounded AI practice generator for **Class 9 Biology**, designed around retrieval rather than relying only on an LLM's prior knowledge.
+
+**Stack:** Python · FAISS · multilingual embeddings · Gemini · Streamlit
+
+🔗 [Repository](https://github.com/UH-ALI/Sabaq)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` · `SQL` · `C++` · `Dart`
+
+**AI / Machine Learning**
+
+`PyTorch` · `Scikit-learn` · `Pandas` · `OpenCV` · `YOLOv11` · `SHAP`
+
+**Generative AI**
+
+`RAG` · `FAISS` · `Vector Databases` · `LLM Tool Calling` · `LoRA/QLoRA` · `Structured Outputs` · `Prompt Engineering`
+
+**Tools & Platforms**
+
+`Git` · `GitHub Actions` · `Hopsworks` · `Streamlit` · `Flutter` · `Supabase` · `Google ML Kit`
+
+---
+
+## 💼 Experience
+
+**Data Science Intern — 10Pearls**
+Worked on an AQI prediction system involving real-time/historical data ingestion, automated retraining, feature management, and model versioning.
+
+**Research Intern — MERL Lab**
+Worked on processor microarchitecture and designed/simulated Control & Logic Units for FPGA-based implementation.
+
+**Mobile Development Trainee — Bano Qabil**
+Worked with Flutter and cross-platform mobile application development.
+
+---
+
+## 🎓 Education
+
+**BS Computer Science**
+DHA Suffa University · **CGPA: 3.89/4.00** · 2026
+
+---
+
+## 📌 Learning & Interests
+
+Currently strengthening my foundations in:
+
+**Machine Learning · Deep Learning · LLM Systems · Agentic AI · MLOps · Digital IC Design**
+
+I'm particularly interested in building systems where **AI models are combined with reliable retrieval, structured workflows, and real-world software infrastructure**.
+
+---
+
+## 📫 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/hafiz-umair-ali](https://www.linkedin.com/in/hafiz-umair-ali/)
+* **Portfolio:** [umair-ali.vercel.app](https://umair-ali.vercel.app/)
+* **GitHub:** [github.com/UH-ALI](https://github.com/UH-ALI)
+* **Email:** [umairalih6@gmail.com](mailto:umairalih6@gmail.com)
+
+---
+
+> Building practical AI systems, one project at a time.
